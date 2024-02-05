@@ -58,5 +58,5 @@ let num1, num2, num3
 
 let gameCounter = 100
 console.log(gameCounter);
-++gameCounter;
+++gameCounter; // prefix and postfix
 console.log(gameCounter);
